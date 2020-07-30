@@ -10,6 +10,7 @@
 
 
  <script>
+ function updateAnswer(){
   var wednesday = 3;
   
   var treffDay = wednesday;
@@ -24,4 +25,6 @@
   
   document.getElementById("answer").innerHTML = answers[dayOfWeek == treffDay];
   document.getElementById("noscript").remove();
+ }
+ updateAnswer();
  </script>

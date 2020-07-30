@@ -2,4 +2,4 @@
 
 Nein!
 
-### [Ist morgen Chaostreff?](www.ist-morgen-chaostreff.online)
+### [Ist morgen Chaostreff?](http://www.ist-morgen-chaostreff.online)

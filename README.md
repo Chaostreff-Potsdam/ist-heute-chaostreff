@@ -10,7 +10,7 @@
 
 
  <script>
-  var wednesday = 3;
+  var wednesday = 4;
   
   var treffDay = wednesday;
   

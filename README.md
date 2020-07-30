@@ -24,7 +24,7 @@
   var dayOfWeek = date.getDay();
   
   document.getElementById("answer").innerHTML = answers[dayOfWeek == treffDay];
-  document.getElementById("noscript").remove();
+  document.getElementById("noscript").innerHTML="";
  }
  updateAnswer();
  </script>
